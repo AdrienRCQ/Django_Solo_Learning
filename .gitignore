@@ -1,0 +1,22 @@
+# Environnement virtuel
+myworld/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Fichiers de log
+*.log
+
+# Fichiers de base de données SQLite
+*.sqlite3
+
+# Secrets (à adapter si tu en as)
+.env
+
+# Dossiers spécifiques à Django
+/staticfiles/
+/media/
+
+# VSCode (si tu l'utilises)
+.vscode/
